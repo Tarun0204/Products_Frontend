@@ -189,11 +189,13 @@
   line-height: 1.5;
   max-height: 3em;
   margin-bottom: 4px;
+  text-align: justify;
 }
 
 .product-description.expanded {
   line-height: 1.5;
   margin-bottom: 4px;
+  text-align: justify;
 }
 
 .read-more-btn {
